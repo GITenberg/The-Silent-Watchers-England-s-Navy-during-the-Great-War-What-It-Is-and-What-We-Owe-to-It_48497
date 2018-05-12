@@ -1,4 +1,8 @@
 _repo: The-Silent-Watchers-England-s-Navy-during-the-Great-War-What-It-Is-and-What-We-Owe-to-It_48497
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48497-h/images/cover.jpg
 creator:
   author:
     agent_name: Copplestone, Bennet
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '3550'
     url: http://www.gutenberg.org/2009/agents/3550
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48497#The-Silent-Watchers-England-s-Navy-during-the-Great-War-What-It-Is-and-What-We-Owe-to-It
 gutenberg_issued: '2015-03-15'
 gutenberg_type: Text
 identifiers:
